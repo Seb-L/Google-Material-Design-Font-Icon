@@ -495,3 +495,9 @@
 
 .ico-work:before {
   content: "\e8e3"; }
+
+.ico-error:before {
+  content: "\e6cf"; }
+
+.ico-warning:before {
+  content: "\e8d8"; }
