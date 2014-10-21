@@ -1,480 +1,160 @@
-.#{$md-prefix}-3d-rotation:before {
-	content: "\e600";
-}
-.#{$md-prefix}-accessibility:before {
-	content: "\e604";
-}
-.#{$md-prefix}-account-balance:before {
-	content: "\e605";
-}
-.#{$md-prefix}-account-balance-wallet:before {
-	content: "\e606";
-}
-.#{$md-prefix}-account-box:before {
-	content: "\e607";
-}
-.#{$md-prefix}-account-child:before {
-	content: "\e608";
-}
-.#{$md-prefix}-account-circle:before {
-	content: "\e609";
-}
-.#{$md-prefix}-add-shopping-cart:before {
-	content: "\e610";
-}
-.#{$md-prefix}-alarm:before {
-	content: "\e615";
-}
-.#{$md-prefix}-alarm-add:before {
-	content: "\e616";
-}
-.#{$md-prefix}-alarm-off:before {
-	content: "\e617";
-}
-.#{$md-prefix}-alarm-on:before {
-	content: "\e618";
-}
-.#{$md-prefix}-android:before {
-	content: "\e61a";
-}
-.#{$md-prefix}-announcement:before {
-	content: "\e61b";
-}
-.#{$md-prefix}-aspect-ratio:before {
-	content: "\e623";
-}
-.#{$md-prefix}-assessment:before {
-	content: "\e624";
-}
-.#{$md-prefix}-assignment:before {
-	content: "\e625";
-}
-.#{$md-prefix}-assignment-ind:before {
-	content: "\e626";
-}
-.#{$md-prefix}-assignment-late:before {
-	content: "\e627";
-}
-.#{$md-prefix}-assignment-return:before {
-	content: "\e628";
-}
-.#{$md-prefix}-assignment-returned:before {
-	content: "\e629";
-}
-.#{$md-prefix}-assignment-turned-in:before {
-	content: "\e62a";
-}
-.#{$md-prefix}-autorenew:before {
-	content: "\e630";
-}
-.#{$md-prefix}-backup:before {
-	content: "\e633";
-}
-.#{$md-prefix}-book:before {
-	content: "\e650";
-}
-.#{$md-prefix}-bookmark:before {
-	content: "\e651";
-}
-.#{$md-prefix}-bookmark-outline:before {
-	content: "\e652";
-}
-.#{$md-prefix}-bug-report:before {
-	content: "\e66b";
-}
-.#{$md-prefix}-cached:before {
-	content: "\e66d";
-}
-.#{$md-prefix}-class:before {
-	content: "\e686";
-}
-.#{$md-prefix}-credit-card:before {
-	content: "\e69f";
-}
-.#{$md-prefix}-dashboard:before {
-	content: "\e6ab";
-}
-.#{$md-prefix}-delete:before {
-	content: "\e6ae";
-}
-.#{$md-prefix}-description:before {
-	content: "\e6af";
-}
-.#{$md-prefix}-dns:before {
-	content: "\e6c3";
-}
-.#{$md-prefix}-done:before {
-	content: "\e6c7";
-}
-.#{$md-prefix}-done-all:before {
-	content: "\e6c8";
-}
-.#{$md-prefix}-event:before {
-	content: "\e6d0";
-}
-.#{$md-prefix}-exit-to-app:before {
-	content: "\e6d4";
-}
-.#{$md-prefix}-explore:before {
-	content: "\e6d8";
-}
-.#{$md-prefix}-extension:before {
-	content: "\e6df";
-}
-.#{$md-prefix}-face-unlock:before {
-	content: "\e6e0";
-}
-.#{$md-prefix}-favorite:before {
-	content: "\e6e3";
-}
-.#{$md-prefix}-favorite-outline:before {
-	content: "\e6e4";
-}
-.#{$md-prefix}-find-in-page:before {
-	content: "\e6fb";
-}
-.#{$md-prefix}-find-replace:before {
-	content: "\e6fc";
-}
-.#{$md-prefix}-flip-to-back:before {
-	content: "\e704";
-}
-.#{$md-prefix}-flip-to-front:before {
-	content: "\e705";
-}
-.#{$md-prefix}-get-app:before {
-	content: "\e728";
-}
-.#{$md-prefix}-grade:before {
-	content: "\e72c";
-}
-.#{$md-prefix}-group-work:before {
-	content: "\e733";
-}
-.#{$md-prefix}-help:before {
-	content: "\e73c";
-}
-.#{$md-prefix}-highlight-remove:before {
-	content: "\e73e";
-}
-.#{$md-prefix}-history:before {
-	content: "\e73f";
-}
-.#{$md-prefix}-home:before {
-	content: "\e740";
-}
-.#{$md-prefix}-https:before {
-	content: "\e742";
-}
-.#{$md-prefix}-info:before {
-	content: "\e747";
-}
-.#{$md-prefix}-info-outline:before {
-	content: "\e748";
-}
-.#{$md-prefix}-input:before {
-	content: "\e749";
-}
-.#{$md-prefix}-invert-colors:before {
-	content: "\e751";
-}
-.#{$md-prefix}-label:before {
-	content: "\e762";
-}
-.#{$md-prefix}-label-outline:before {
-	content: "\e763";
-}
-.#{$md-prefix}-language:before {
-	content: "\e765";
-}
-.#{$md-prefix}-launch:before {
-	content: "\e76a";
-}
-.#{$md-prefix}-list:before {
-	content: "\e771";
-}
-.#{$md-prefix}-lock:before {
-	content: "\e796";
-}
-.#{$md-prefix}-lock-open:before {
-	content: "\e797";
-}
-.#{$md-prefix}-lock-outline:before {
-	content: "\e798";
-}
-.#{$md-prefix}-loyalty:before {
-	content: "\e7a2";
-}
-.#{$md-prefix}-markunread:before {
-	content: "\e7a5";
-}
-.#{$md-prefix}-note-add:before {
-	content: "\e7ca";
-}
-.#{$md-prefix}-open-in-browser:before {
-	content: "\e7d2";
-}
-.#{$md-prefix}-open-in-new:before {
-	content: "\e7d3";
-}
-.#{$md-prefix}-open-with:before {
-	content: "\e7d4";
-}
-.#{$md-prefix}-pageview:before {
-	content: "\e7d6";
-}
-.#{$md-prefix}-payment:before {
-	content: "\e7e1";
-}
-.#{$md-prefix}-perm-camera-mico:before {
-	content: "\e7e4";
-}
-.#{$md-prefix}-perm-contact-cal:before {
-	content: "\e7e5";
-}
-.#{$md-prefix}-perm-data-setting:before {
-	content: "\e7e6";
-}
-.#{$md-prefix}-perm-device-info:before {
-	content: "\e7e7";
-}
-.#{$md-prefix}-perm-identity:before {
-	content: "\e7e8";
-}
-.#{$md-prefix}-perm-media:before {
-	content: "\e7e9";
-}
-.#{$md-prefix}-perm-phone-msg:before {
-	content: "\e7ea";
-}
-.#{$md-prefix}-perm-scan-wifi:before {
-	content: "\e7eb";
-}
-.#{$md-prefix}-picture-in-picture:before {
-	content: "\e7fe";
-}
-.#{$md-prefix}-polymer:before {
-	content: "\e80a";
-}
-.#{$md-prefix}-print:before {
-	content: "\e80d";
-}
-.#{$md-prefix}-query-builder:before {
-	content: "\e810";
-}
-.#{$md-prefix}-question-answer:before {
-	content: "\e811";
-}
-.#{$md-prefix}-receipt:before {
-	content: "\e81a";
-}
-.#{$md-prefix}-redeem:before {
-	content: "\e81c";
-}
-.#{$md-prefix}-report-problem:before {
-	content: "\e829";
-}
-.#{$md-prefix}-restore:before {
-	content: "\e82b";
-}
-.#{$md-prefix}-room:before {
-	content: "\e82d";
-}
-.#{$md-prefix}-schedule:before {
-	content: "\e832";
-}
-.#{$md-prefix}-search:before {
-	content: "\e83a";
-}
-.#{$md-prefix}-settings:before {
-	content: "\e83e";
-}
-.#{$md-prefix}-settings-applications:before {
-	content: "\e83f";
-}
-.#{$md-prefix}-settings-backup-restore:before {
-	content: "\e840";
-}
-.#{$md-prefix}-settings-bluetooth:before {
-	content: "\e841";
-}
-.#{$md-prefix}-settings-cell:before {
-	content: "\e842";
-}
-.#{$md-prefix}-settings-display:before {
-	content: "\e843";
-}
-.#{$md-prefix}-settings-ethernet:before {
-	content: "\e844";
-}
-.#{$md-prefix}-settings-input-antenna:before {
-	content: "\e845";
-}
-.#{$md-prefix}-settings-input-component:before {
-	content: "\e846";
-}
-.#{$md-prefix}-settings-input-composite:before {
-	content: "\e847";
-}
-.#{$md-prefix}-settings-input-hdmi:before {
-	content: "\e848";
-}
-.#{$md-prefix}-settings-input-svideo:before {
-	content: "\e849";
-}
-.#{$md-prefix}-settings-overscan:before {
-	content: "\e84a";
-}
-.#{$md-prefix}-settings-phone:before {
-	content: "\e84b";
-}
-.#{$md-prefix}-settings-power:before {
-	content: "\e84c";
-}
-.#{$md-prefix}-settings-remote:before {
-	content: "\e84d";
-}
-.#{$md-prefix}-settings-voice:before {
-	content: "\e84f";
-}
-.#{$md-prefix}-shop:before {
-	content: "\e851";
-}
-.#{$md-prefix}-shop-two:before {
-	content: "\e852";
-}
-.#{$md-prefix}-shopping-basket:before {
-	content: "\e853";
-}
-.#{$md-prefix}-shopping-cart:before {
-	content: "\e854";
-}
-.#{$md-prefix}-speaker-notes:before {
-	content: "\e874";
-}
-.#{$md-prefix}-spellcheck:before {
-	content: "\e875";
-}
-.#{$md-prefix}-star-rate:before {
-	content: "\e876";
-}
-.#{$md-prefix}-stars:before {
-	content: "\e877";
-}
-.#{$md-prefix}-store:before {
-	content: "\e87e";
-}
-.#{$md-prefix}-subject:before {
-	content: "\e882";
-}
-.#{$md-prefix}-swap-horiz:before {
-	content: "\e886";
-}
-.#{$md-prefix}-swap-vert:before {
-	content: "\e887";
-}
-.#{$md-prefix}-swap-vert-circle:before {
-	content: "\e888";
-}
-.#{$md-prefix}-system-update-tv:before {
-	content: "\e88f";
-}
-.#{$md-prefix}-tab:before {
-	content: "\e890";
-}
-.#{$md-prefix}-tab-unselected:before {
-	content: "\e891";
-}
-.#{$md-prefix}-theaters:before {
-	content: "\e89b";
-}
-.#{$md-prefix}-thumb-down:before {
-	content: "\e89c";
-}
-.#{$md-prefix}-thumb-up:before {
-	content: "\e89d";
-}
-.#{$md-prefix}-thumbs-up-down:before {
-	content: "\e89e";
-}
-.#{$md-prefix}-toc:before {
-	content: "\e8a6";
-}
-.#{$md-prefix}-today:before {
-	content: "\e8a7";
-}
-.#{$md-prefix}-track-changes:before {
-	content: "\e8a9";
-}
-.#{$md-prefix}-translate:before {
-	content: "\e8ac";
-}
-.#{$md-prefix}-trending-down:before {
-	content: "\e8ad";
-}
-.#{$md-prefix}-trending-neutral:before {
-	content: "\e8ae";
-}
-.#{$md-prefix}-trending-up:before {
-	content: "\e8af";
-}
-.#{$md-prefix}-turned-in:before {
-	content: "\e8b1";
-}
-.#{$md-prefix}-turned-in-not:before {
-	content: "\e8b2";
-}
-.#{$md-prefix}-verified-user:before {
-	content: "\e8b8";
-}
-.#{$md-prefix}-view-agenda:before {
-	content: "\e8c0";
-}
-.#{$md-prefix}-view-array:before {
-	content: "\e8c1";
-}
-.#{$md-prefix}-view-carousel:before {
-	content: "\e8c2";
-}
-.#{$md-prefix}-view-column:before {
-	content: "\e8c3";
-}
-.#{$md-prefix}-view-day:before {
-	content: "\e8c4";
-}
-.#{$md-prefix}-view-headline:before {
-	content: "\e8c5";
-}
-.#{$md-prefix}-view-list:before {
-	content: "\e8c6";
-}
-.#{$md-prefix}-view-module:before {
-	content: "\e8c7";
-}
-.#{$md-prefix}-view-quilt:before {
-	content: "\e8c8";
-}
-.#{$md-prefix}-view-stream:before {
-	content: "\e8c9";
-}
-.#{$md-prefix}-view-week:before {
-	content: "\e8ca";
-}
-.#{$md-prefix}-visibility:before {
-	content: "\e8cb";
-}
-.#{$md-prefix}-visibility-off:before {
-	content: "\e8cc";
-}
-.#{$md-prefix}-wallet-giftcard:before {
-	content: "\e8d5";
-}
-.#{$md-prefix}-wallet-membership:before {
-	content: "\e8d6";
-}
-.#{$md-prefix}-wallet-travel:before {
-	content: "\e8d7";
-}
-.#{$md-prefix}-work:before {
-	content: "\e8e3";
-}
+.#{$md-prefix}-3d-rotation:before { content: "\e600"; }
+.#{$md-prefix}-accessibility:before { content: "\e604"; }
+.#{$md-prefix}-account-balance:before { content: "\e605"; }
+.#{$md-prefix}-account-balance-wallet:before { content: "\e606"; }
+.#{$md-prefix}-account-box:before { content: "\e607"; }
+.#{$md-prefix}-account-child:before { content: "\e608"; }
+.#{$md-prefix}-account-circle:before { content: "\e609"; }
+.#{$md-prefix}-add-shopping-cart:before { content: "\e610"; }
+.#{$md-prefix}-alarm:before { content: "\e615"; }
+.#{$md-prefix}-alarm-add:before { content: "\e616"; }
+.#{$md-prefix}-alarm-off:before { content: "\e617"; }
+.#{$md-prefix}-alarm-on:before { content: "\e618"; }
+.#{$md-prefix}-android:before { content: "\e61a"; }
+.#{$md-prefix}-announcement:before { content: "\e61b"; }
+.#{$md-prefix}-aspect-ratio:before { content: "\e623"; }
+.#{$md-prefix}-assessment:before { content: "\e624"; }
+.#{$md-prefix}-assignment:before { content: "\e625"; }
+.#{$md-prefix}-assignment-ind:before { content: "\e626"; }
+.#{$md-prefix}-assignment-late:before { content: "\e627"; }
+.#{$md-prefix}-assignment-return:before { content: "\e628"; }
+.#{$md-prefix}-assignment-returned:before { content: "\e629"; }
+.#{$md-prefix}-assignment-turned-in:before { content: "\e62a"; }
+.#{$md-prefix}-autorenew:before { content: "\e630"; }
+.#{$md-prefix}-backup:before { content: "\e633"; }
+.#{$md-prefix}-book:before { content: "\e650"; }
+.#{$md-prefix}-bookmark:before { content: "\e651"; }
+.#{$md-prefix}-bookmark-outline:before { content: "\e652"; }
+.#{$md-prefix}-bug-report:before { content: "\e66b"; }
+.#{$md-prefix}-cached:before { content: "\e66d"; }
+.#{$md-prefix}-class:before { content: "\e686"; }
+.#{$md-prefix}-credit-card:before { content: "\e69f"; }
+.#{$md-prefix}-dashboard:before { content: "\e6ab"; }
+.#{$md-prefix}-delete:before { content: "\e6ae"; }
+.#{$md-prefix}-description:before { content: "\e6af"; }
+.#{$md-prefix}-dns:before { content: "\e6c3"; }
+.#{$md-prefix}-done:before { content: "\e6c7"; }
+.#{$md-prefix}-done-all:before { content: "\e6c8"; }
+.#{$md-prefix}-event:before { content: "\e6d0"; }
+.#{$md-prefix}-exit-to-app:before { content: "\e6d4"; }
+.#{$md-prefix}-explore:before { content: "\e6d8"; }
+.#{$md-prefix}-extension:before { content: "\e6df"; }
+.#{$md-prefix}-face-unlock:before { content: "\e6e0"; }
+.#{$md-prefix}-favorite:before { content: "\e6e3"; }
+.#{$md-prefix}-favorite-outline:before { content: "\e6e4"; }
+.#{$md-prefix}-find-in-page:before { content: "\e6fb"; }
+.#{$md-prefix}-find-replace:before { content: "\e6fc"; }
+.#{$md-prefix}-flip-to-back:before { content: "\e704"; }
+.#{$md-prefix}-flip-to-front:before { content: "\e705"; }
+.#{$md-prefix}-get-app:before { content: "\e728"; }
+.#{$md-prefix}-grade:before { content: "\e72c"; }
+.#{$md-prefix}-group-work:before { content: "\e733"; }
+.#{$md-prefix}-help:before { content: "\e73c"; }
+.#{$md-prefix}-highlight-remove:before { content: "\e73e"; }
+.#{$md-prefix}-history:before { content: "\e73f"; }
+.#{$md-prefix}-home:before { content: "\e740"; }
+.#{$md-prefix}-https:before { content: "\e742"; }
+.#{$md-prefix}-info:before { content: "\e747"; }
+.#{$md-prefix}-info-outline:before { content: "\e748"; }
+.#{$md-prefix}-input:before { content: "\e749"; }
+.#{$md-prefix}-invert-colors:before { content: "\e751"; }
+.#{$md-prefix}-label:before { content: "\e762"; }
+.#{$md-prefix}-label-outline:before { content: "\e763"; }
+.#{$md-prefix}-language:before { content: "\e765"; }
+.#{$md-prefix}-launch:before { content: "\e76a"; }
+.#{$md-prefix}-list:before { content: "\e771"; }
+.#{$md-prefix}-lock:before { content: "\e796"; }
+.#{$md-prefix}-lock-open:before { content: "\e797"; }
+.#{$md-prefix}-lock-outline:before { content: "\e798"; }
+.#{$md-prefix}-loyalty:before { content: "\e7a2"; }
+.#{$md-prefix}-markunread:before { content: "\e7a5"; }
+.#{$md-prefix}-note-add:before { content: "\e7ca"; }
+.#{$md-prefix}-open-in-browser:before { content: "\e7d2"; }
+.#{$md-prefix}-open-in-new:before { content: "\e7d3"; }
+.#{$md-prefix}-open-with:before { content: "\e7d4"; }
+.#{$md-prefix}-pageview:before { content: "\e7d6"; }
+.#{$md-prefix}-payment:before { content: "\e7e1"; }
+.#{$md-prefix}-perm-camera-mico:before { content: "\e7e4"; }
+.#{$md-prefix}-perm-contact-cal:before { content: "\e7e5"; }
+.#{$md-prefix}-perm-data-setting:before { content: "\e7e6"; }
+.#{$md-prefix}-perm-device-info:before { content: "\e7e7"; }
+.#{$md-prefix}-perm-identity:before { content: "\e7e8"; }
+.#{$md-prefix}-perm-media:before { content: "\e7e9"; }
+.#{$md-prefix}-perm-phone-msg:before { content: "\e7ea"; }
+.#{$md-prefix}-perm-scan-wifi:before { content: "\e7eb"; }
+.#{$md-prefix}-picture-in-picture:before { content: "\e7fe"; }
+.#{$md-prefix}-polymer:before { content: "\e80a"; }
+.#{$md-prefix}-print:before { content: "\e80d"; }
+.#{$md-prefix}-query-builder:before { content: "\e810"; }
+.#{$md-prefix}-question-answer:before { content: "\e811"; }
+.#{$md-prefix}-receipt:before { content: "\e81a"; }
+.#{$md-prefix}-redeem:before { content: "\e81c"; }
+.#{$md-prefix}-report-problem:before { content: "\e829"; }
+.#{$md-prefix}-restore:before { content: "\e82b"; }
+.#{$md-prefix}-room:before { content: "\e82d"; }
+.#{$md-prefix}-schedule:before { content: "\e832"; }
+.#{$md-prefix}-search:before { content: "\e83a"; }
+.#{$md-prefix}-settings:before { content: "\e83e"; }
+.#{$md-prefix}-settings-applications:before { content: "\e83f"; }
+.#{$md-prefix}-settings-backup-restore:before { content: "\e840"; }
+.#{$md-prefix}-settings-bluetooth:before { content: "\e841"; }
+.#{$md-prefix}-settings-cell:before { content: "\e842"; }
+.#{$md-prefix}-settings-display:before { content: "\e843"; }
+.#{$md-prefix}-settings-ethernet:before { content: "\e844"; }
+.#{$md-prefix}-settings-input-antenna:before { content: "\e845"; }
+.#{$md-prefix}-settings-input-component:before { content: "\e846"; }
+.#{$md-prefix}-settings-input-composite:before { content: "\e847"; }
+.#{$md-prefix}-settings-input-hdmi:before { content: "\e848"; }
+.#{$md-prefix}-settings-input-svideo:before { content: "\e849"; }
+.#{$md-prefix}-settings-overscan:before { content: "\e84a"; }
+.#{$md-prefix}-settings-phone:before { content: "\e84b"; }
+.#{$md-prefix}-settings-power:before { content: "\e84c"; }
+.#{$md-prefix}-settings-remote:before { content: "\e84d"; }
+.#{$md-prefix}-settings-voice:before { content: "\e84f"; }
+.#{$md-prefix}-shop:before { content: "\e851"; }
+.#{$md-prefix}-shop-two:before { content: "\e852"; }
+.#{$md-prefix}-shopping-basket:before { content: "\e853"; }
+.#{$md-prefix}-shopping-cart:before { content: "\e854"; }
+.#{$md-prefix}-speaker-notes:before { content: "\e874"; }
+.#{$md-prefix}-spellcheck:before { content: "\e875"; }
+.#{$md-prefix}-star-rate:before { content: "\e876"; }
+.#{$md-prefix}-stars:before { content: "\e877"; }
+.#{$md-prefix}-store:before { content: "\e87e"; }
+.#{$md-prefix}-subject:before { content: "\e882"; }
+.#{$md-prefix}-swap-horiz:before { content: "\e886"; }
+.#{$md-prefix}-swap-vert:before { content: "\e887"; }
+.#{$md-prefix}-swap-vert-circle:before { content: "\e888"; }
+.#{$md-prefix}-system-update-tv:before { content: "\e88f"; }
+.#{$md-prefix}-tab:before { content: "\e890"; }
+.#{$md-prefix}-tab-unselected:before { content: "\e891"; }
+.#{$md-prefix}-theaters:before { content: "\e89b"; }
+.#{$md-prefix}-thumb-down:before { content: "\e89c"; }
+.#{$md-prefix}-thumb-up:before { content: "\e89d"; }
+.#{$md-prefix}-thumbs-up-down:before { content: "\e89e"; }
+.#{$md-prefix}-toc:before { content: "\e8a6"; }
+.#{$md-prefix}-today:before { content: "\e8a7"; }
+.#{$md-prefix}-track-changes:before { content: "\e8a9"; }
+.#{$md-prefix}-translate:before { content: "\e8ac"; }
+.#{$md-prefix}-trending-down:before { content: "\e8ad"; }
+.#{$md-prefix}-trending-neutral:before { content: "\e8ae"; }
+.#{$md-prefix}-trending-up:before { content: "\e8af"; }
+.#{$md-prefix}-turned-in:before { content: "\e8b1"; }
+.#{$md-prefix}-turned-in-not:before { content: "\e8b2"; }
+.#{$md-prefix}-verified-user:before { content: "\e8b8"; }
+.#{$md-prefix}-view-agenda:before { content: "\e8c0"; }
+.#{$md-prefix}-view-array:before { content: "\e8c1"; }
+.#{$md-prefix}-view-carousel:before { content: "\e8c2"; }
+.#{$md-prefix}-view-column:before { content: "\e8c3"; }
+.#{$md-prefix}-view-day:before { content: "\e8c4"; }
+.#{$md-prefix}-view-headline:before { content: "\e8c5"; }
+.#{$md-prefix}-view-list:before { content: "\e8c6"; }
+.#{$md-prefix}-view-module:before { content: "\e8c7"; }
+.#{$md-prefix}-view-quilt:before { content: "\e8c8"; }
+.#{$md-prefix}-view-stream:before { content: "\e8c9"; }
+.#{$md-prefix}-view-week:before { content: "\e8ca"; }
+.#{$md-prefix}-visibility:before { content: "\e8cb"; }
+.#{$md-prefix}-visibility-off:before { content: "\e8cc"; }
+.#{$md-prefix}-wallet-giftcard:before { content: "\e8d5"; }
+.#{$md-prefix}-wallet-membership:before { content: "\e8d6"; }
+.#{$md-prefix}-wallet-travel:before { content: "\e8d7"; }
+.#{$md-prefix}-work:before { content: "\e8e3"; }

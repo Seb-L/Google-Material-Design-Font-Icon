@@ -1,153 +1,51 @@
-.#{$md-prefix}-album:before {
-	content: "\e619";
-}
-.#{$md-prefix}-av-timer:before {
-	content: "\e631";
-}
-.#{$md-prefix}-closed-caption:before {
-	content: "\e68a";
-}
-.#{$md-prefix}-equalizer:before {
-	content: "\e6ce";
-}
-.#{$md-prefix}-explicit:before {
-	content: "\e6d7";
-}
-.#{$md-prefix}-fast-forward:before {
-	content: "\e6e1";
-}
-.#{$md-prefix}-fast-rewind:before {
-	content: "\e6e2";
-}
-.#{$md-prefix}-games:before {
-	content: "\e726";
-}
-.#{$md-prefix}-hearing:before {
-	content: "\e73b";
-}
-.#{$md-prefix}-high-quality:before {
-	content: "\e73d";
-}
-.#{$md-prefix}-highlight-remove:before {
-	content: "\e73e";
-}
-.#{$md-prefix}-loop:before {
-	content: "\e7a0";
-}
-.#{$md-prefix}-mic:before {
-	content: "\e7ac";
-}
-.#{$md-prefix}-mic-none:before {
-	content: "\e7ad";
-}
-.#{$md-prefix}-mic-off:before {
-	content: "\e7ae";
-}
-.#{$md-prefix}-movie:before {
-	content: "\e7b7";
-}
-.#{$md-prefix}-my-library-add:before {
-	content: "\e7ba";
-}
-.#{$md-prefix}-my-library-books:before {
-	content: "\e7bb";
-}
-.#{$md-prefix}-my-library-music:before {
-	content: "\e7bc";
-}
-.#{$md-prefix}-new-releases:before {
-	content: "\e7c6";
-}
-.#{$md-prefix}-not-interested:before {
-	content: "\e7c9";
-}
-.#{$md-prefix}-pause:before {
-	content: "\e7de";
-}
-.#{$md-prefix}-pause-circle-fill:before {
-	content: "\e7df";
-}
-.#{$md-prefix}-pause-circle-outline:before {
-	content: "\e7e0";
-}
-.#{$md-prefix}-play-arrow:before {
-	content: "\e801";
-}
-.#{$md-prefix}-play-circle-fill:before {
-	content: "\e802";
-}
-.#{$md-prefix}-play-circle-outline:before {
-	content: "\e803";
-}
-.#{$md-prefix}-play-shopping-bag:before {
-	content: "\e806";
-}
-.#{$md-prefix}-playlist-add:before {
-	content: "\e807";
-}
-.#{$md-prefix}-queue:before {
-	content: "\e812";
-}
-.#{$md-prefix}-queue-music:before {
-	content: "\e813";
-}
-.#{$md-prefix}-radio:before {
-	content: "\e816";
-}
-.#{$md-prefix}-recent-actors:before {
-	content: "\e81b";
-}
-.#{$md-prefix}-repeat:before {
-	content: "\e823";
-}
-.#{$md-prefix}-repeat-one:before {
-	content: "\e824";
-}
-.#{$md-prefix}-replay:before {
-	content: "\e825";
-}
-.#{$md-prefix}-shuffle:before {
-	content: "\e855";
-}
-.#{$md-prefix}-skip-next:before {
-	content: "\e86b";
-}
-.#{$md-prefix}-skip-previous:before {
-	content: "\e86c";
-}
-.#{$md-prefix}-snooze:before {
-	content: "\e871";
-}
-.#{$md-prefix}-stop:before {
-	content: "\e87c";
-}
-.#{$md-prefix}-subtitles:before {
-	content: "\e883";
-}
-.#{$md-prefix}-surround-sound:before {
-	content: "\e884";
-}
-.#{$md-prefix}-video-collection:before {
-	content: "\e8bd";
-}
-.#{$md-prefix}-videocam:before {
-	content: "\e8be";
-}
-.#{$md-prefix}-videocam-off:before {
-	content: "\e8bf";
-}
-.#{$md-prefix}-volume-down:before {
-	content: "\e8cf";
-}
-.#{$md-prefix}-volume-mute:before {
-	content: "\e8d0";
-}
-.#{$md-prefix}-volume-off:before {
-	content: "\e8d1";
-}
-.#{$md-prefix}-volume-up:before {
-	content: "\e8d2";
-}
-.#{$md-prefix}-web:before {
-	content: "\e8df";
-}
+.#{$md-prefix}-album:before { content: "\e619"; }
+.#{$md-prefix}-av-timer:before { content: "\e631"; }
+.#{$md-prefix}-closed-caption:before { content: "\e68a"; }
+.#{$md-prefix}-equalizer:before { content: "\e6ce"; }
+.#{$md-prefix}-explicit:before { content: "\e6d7"; }
+.#{$md-prefix}-fast-forward:before { content: "\e6e1"; }
+.#{$md-prefix}-fast-rewind:before { content: "\e6e2"; }
+.#{$md-prefix}-games:before { content: "\e726"; }
+.#{$md-prefix}-hearing:before { content: "\e73b"; }
+.#{$md-prefix}-high-quality:before { content: "\e73d"; }
+.#{$md-prefix}-highlight-remove:before { content: "\e73e"; }
+.#{$md-prefix}-loop:before { content: "\e7a0"; }
+.#{$md-prefix}-mic:before { content: "\e7ac"; }
+.#{$md-prefix}-mic-none:before { content: "\e7ad"; }
+.#{$md-prefix}-mic-off:before { content: "\e7ae"; }
+.#{$md-prefix}-movie:before { content: "\e7b7"; }
+.#{$md-prefix}-my-library-add:before { content: "\e7ba"; }
+.#{$md-prefix}-my-library-books:before { content: "\e7bb"; }
+.#{$md-prefix}-my-library-music:before { content: "\e7bc"; }
+.#{$md-prefix}-new-releases:before { content: "\e7c6"; }
+.#{$md-prefix}-not-interested:before { content: "\e7c9"; }
+.#{$md-prefix}-pause:before { content: "\e7de"; }
+.#{$md-prefix}-pause-circle-fill:before { content: "\e7df"; }
+.#{$md-prefix}-pause-circle-outline:before { content: "\e7e0"; }
+.#{$md-prefix}-play-arrow:before { content: "\e801"; }
+.#{$md-prefix}-play-circle-fill:before { content: "\e802"; }
+.#{$md-prefix}-play-circle-outline:before { content: "\e803"; }
+.#{$md-prefix}-play-shopping-bag:before { content: "\e806"; }
+.#{$md-prefix}-playlist-add:before { content: "\e807"; }
+.#{$md-prefix}-queue:before { content: "\e812"; }
+.#{$md-prefix}-queue-music:before { content: "\e813"; }
+.#{$md-prefix}-radio:before { content: "\e816"; }
+.#{$md-prefix}-recent-actors:before { content: "\e81b"; }
+.#{$md-prefix}-repeat:before { content: "\e823"; }
+.#{$md-prefix}-repeat-one:before { content: "\e824"; }
+.#{$md-prefix}-replay:before { content: "\e825"; }
+.#{$md-prefix}-shuffle:before { content: "\e855"; }
+.#{$md-prefix}-skip-next:before { content: "\e86b"; }
+.#{$md-prefix}-skip-previous:before { content: "\e86c"; }
+.#{$md-prefix}-snooze:before { content: "\e871"; }
+.#{$md-prefix}-stop:before { content: "\e87c"; }
+.#{$md-prefix}-subtitles:before { content: "\e883"; }
+.#{$md-prefix}-surround-sound:before { content: "\e884"; }
+.#{$md-prefix}-video-collection:before { content: "\e8bd"; }
+.#{$md-prefix}-videocam:before { content: "\e8be"; }
+.#{$md-prefix}-videocam-off:before { content: "\e8bf"; }
+.#{$md-prefix}-volume-down:before { content: "\e8cf"; }
+.#{$md-prefix}-volume-mute:before { content: "\e8d0"; }
+.#{$md-prefix}-volume-off:before { content: "\e8d1"; }
+.#{$md-prefix}-volume-up:before { content: "\e8d2"; }
+.#{$md-prefix}-web:before { content: "\e8df"; }
