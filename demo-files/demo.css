@@ -147,3 +147,26 @@ p {
 .fs1 {
 	font-size: 32px;
 }
+
+
+
+
+body{
+	padding: 5rem;
+}
+
+
+
+
+
+.icon-list li{
+	display: inline-block;
+	margin: 1rem;
+}
+.icon-list li i{
+	font-size: 2rem;
+}
+
+
+
+
