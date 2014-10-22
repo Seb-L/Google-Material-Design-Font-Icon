@@ -17,6 +17,10 @@ bower install Google-Material-Design-Font-Icon
 
 ## SASS Settings
 
+in your main scss file:
+
+```
+
 some variables can be overide (available in the _settings.scss file):
 
 ```
