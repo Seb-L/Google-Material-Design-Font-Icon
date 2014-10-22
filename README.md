@@ -9,6 +9,8 @@ Font Icon based on Google Material Design Icon set (http://google.github.io/mate
 bower install Google-Material-Design-Font-Icon
 ```
 
+## Using
+
 ```
 <link rel="stylesheet" href="bower_components/google-material-design-font-icon/material-design-font-icon.css">
 ```
