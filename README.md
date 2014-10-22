@@ -3,6 +3,16 @@ Google-Material-Design-Font-Icon
 
 Font Icon based on Google Material Design Icon set (http://google.github.io/material-design-icons/).
 
+## Install
+
+```
+bower install Google-Material-Design-Font-Icon
+```
+
+```
+<link rel="stylesheet" href="bower_components/google-material-design-font-icon/material-design-font-icon.css">
+```
+
 ## SASS Settings
 
 some variables can be overide (available in the _settings.scss file):
