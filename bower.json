@@ -1,0 +1,19 @@
+{
+  "name": "Google-Material-Design-Font-Icon",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Seb-L/Google-Material-Design-Font-Icon",
+  "authors": [
+    "Sébastien Lombard <http://www.platonicsolids.fr>"
+  ],
+  "description": "Webfont based on Google Material Design Icon set (http://google.github.io/material-design-icons/).",
+  "main": "material-design-font-icon.css",
+  "keywords": [
+    "google",
+    "material",
+    "sass",
+    "css",
+    "icons",
+    "webfont"
+  ],
+  "license": "Attribution-ShareAlike 4.0 International"
+}
