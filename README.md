@@ -20,7 +20,7 @@ bower install Google-Material-Design-Font-Icon
 in your main scss file:
 
 ```
-@import 'bower_components/google-material-design-font-icon/scss/material-design-font-icon'
+@import 'bower_components/google-material-design-font-icon/scss/material-design-font-icon';
 ```
 
 some variables can be overide (available in the _settings.scss file):
