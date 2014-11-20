@@ -1,7 +1,7 @@
-$md-general-class-name: 'mdi';
-$md-prefix: 'ico';
-$md-font-name: 'material-icons';
-$md-font-path: './fonts';
+$md-general-class-name: 'mdi' !default;
+$md-prefix: 'ico' !default;
+$md-font-name: 'material-icons' !default;
+$md-font-path: './fonts' !default;
 
 
 @font-face {
