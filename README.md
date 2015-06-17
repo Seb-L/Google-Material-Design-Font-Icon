@@ -1,3 +1,9 @@
+## Deprecated
+it is now included in google fonts, this repo is now deprecated.
+
+see: http://google.github.io/material-design-icons/
+Setup Method 1. Using via Google Web Fonts
+
 Google-Material-Design-Font-Icon
 ================================
 
